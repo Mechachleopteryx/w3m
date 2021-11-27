@@ -10,3 +10,7 @@ forked from the original version <https://sourceforge.net/projects/w3m/>.
 If you can read English, see doc/*.
 If you can read Japanese, see doc-jp/*.
 If you can read both, read both and correct English. :-)
+
+Installation in Ubuntu:
+
+  sudo apt install w3m w3m-img
